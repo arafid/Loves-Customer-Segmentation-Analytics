@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="380" viewBox="0 0 700 380" role="img" aria-labelledby="title desc">
+  <title id="title">Campaign achievement-per-join rate by send channel</title>
+  <desc id="desc">Receipt has the highest observed success rate at 33.33 percent, followed by SMS at 32.72 percent, Push at 26.39 percent, and Email at 21.33 percent.</desc>
+  <rect width="700" height="380" fill="#ffffff"/>
+  <text x="350" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#24292f">Send-Channel Success Rate</text>
+  <text x="350" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#57606a">Achievements ÷ joins</text>
+  <line x1="88" y1="314" x2="658" y2="314" stroke="#d0d7de"/>
+  <line x1="88" y1="82" x2="88" y2="314" stroke="#d0d7de"/>
+  <g stroke="#eef1f4"><line x1="88" y1="256" x2="658" y2="256"/><line x1="88" y1="198" x2="658" y2="198"/><line x1="88" y1="140" x2="658" y2="140"/><line x1="88" y1="82" x2="658" y2="82"/></g>
+  <g font-family="Arial, sans-serif" font-size="11" fill="#57606a" text-anchor="end"><text x="78" y="318">0%</text><text x="78" y="260">10%</text><text x="78" y="202">20%</text><text x="78" y="144">30%</text><text x="78" y="86">40%</text></g>
+  <g font-family="Arial, sans-serif">
+    <rect x="127" y="190.3" width="82" height="123.7" rx="5" fill="#8c959f"/><text x="168" y="181" text-anchor="middle" font-size="13" font-weight="700" fill="#24292f">21.33%</text><text x="168" y="338" text-anchor="middle" font-size="13" fill="#24292f">Email</text>
+    <rect x="263" y="160.9" width="82" height="153.1" rx="5" fill="#54aeff"/><text x="304" y="152" text-anchor="middle" font-size="13" font-weight="700" fill="#24292f">26.39%</text><text x="304" y="338" text-anchor="middle" font-size="13" fill="#24292f">Push</text>
+    <rect x="399" y="120.7" width="82" height="193.3" rx="5" fill="#0969da"/><text x="440" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#24292f">33.33%</text><text x="440" y="338" text-anchor="middle" font-size="13" fill="#24292f">Receipt</text>
+    <rect x="535" y="124.2" width="82" height="189.8" rx="5" fill="#1f883d"/><text x="576" y="115" text-anchor="middle" font-size="13" font-weight="700" fill="#24292f">32.72%</text><text x="576" y="338" text-anchor="middle" font-size="13" fill="#24292f">SMS</text>
+  </g>
+  <text x="350" y="367" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6e7781">Receipt has a much smaller sample than the other channels; interpret the rate with caution.</text>
+</svg>
