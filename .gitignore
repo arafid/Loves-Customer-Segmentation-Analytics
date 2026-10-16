@@ -1,0 +1,19 @@
+# Raw case-competition data
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
